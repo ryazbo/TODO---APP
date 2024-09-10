@@ -1883,7 +1883,10 @@
           "Microsoft.EntityFrameworkCore": "8.0.4"
         },
         "runtime": {
-          "ReactApp.Infraestructura.dll": {}
+          "ReactApp.Infraestructura.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

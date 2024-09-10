@@ -3,3 +3,4 @@ C:\Users\sebac\Documents\GitHub\react-proyect-training\react\ReactApp1\reactapp1
 C:\Users\deiby\OneDrive\Documentos\GitHub\react-proyect-training\react\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
 C:\Users\sebac\AppData\Local\Temp\Rar$DRa23820.24962\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
 C:\Users\sebac\documents\github\ryazbo\TODO---APP\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\deiby\OneDrive\Documentos\GitHub\TODO---APP\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
