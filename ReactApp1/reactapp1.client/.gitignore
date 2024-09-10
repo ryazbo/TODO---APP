@@ -7,18 +7,27 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencias y build output
 node_modules
 dist
 dist-ssr
+
+# Archivos locales
 *.local
 
-# Editor directories and files
+# Archivos temporales de sistema
+.DS_Store
+
+# Archivos y configuraciones de editores
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
 *.sw?
+
+# Ignorar carpetas de Visual Studio
+.vs/
+../.vs/
+../../.vs/

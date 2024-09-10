@@ -1,0 +1,16 @@
+USUARIO: sa
+PASSWORD: Juan310*
+
+
+    "TodoAppDataBase": "Server:DESKTOP-3KNCLB4\\TODOAPP;Database:todoapp;Uid:sa;Pwd:Juan310*;Trusted_Connection=false;TrustServerCertificate=true"
+
+
+USUARIO: todoAppManagament 
+PASSWORD: Juan310*   
+
+
+
+
+
+PIN: 1989 ContraCred: Juan310*
+;
