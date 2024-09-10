@@ -1,0 +1,5 @@
+C:\Users\PGD 40\OneDrive - PGD Procesos de gestión documental SAS\Documentos\GitHub\reactPractice\react-proyect-training\react-csharp\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\sebac\Documents\GitHub\react-proyect-training\react\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\deiby\OneDrive\Documentos\GitHub\react-proyect-training\react\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\sebac\AppData\Local\Temp\Rar$DRa23820.24962\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
+C:\Users\sebac\documents\github\ryazbo\TODO---APP\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
