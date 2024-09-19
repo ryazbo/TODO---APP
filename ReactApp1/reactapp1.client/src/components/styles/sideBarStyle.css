@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-button {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    cursor: pointer;
+    margin: 1rem;
+    border-radius: 10px;
+    background-color: #464D4D;
+    transition: background-color 0.5s;
+}
+
+.sidebar-button:hover {
+    background-color: gray;
+}
+
+.sidebar-box {
+    position: fixed;
+    top: 0;
+    left: -300px; /* Oculto fuera de vista */
+    height: 100%;
+    width: 15rem;
+    padding: 1rem;
+    background-color: whitesmoke;
+    transition: left 0.3s ease;
+    overflow-x: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    .brandside{
+        display: flex;
+        border-bottom: 4px solid black;
+        padding-bottom: 2rem;
+        .closesidebar {
+            padding: 10px;
+            height: 1.5rem;
+            width: 1.5rem;
+            align-items: center;
+            cursor: pointer;
+            margin: 1rem;
+            border-radius: 10px;
+            background-color: #464D4D;
+            transition: background-color 0.5s;
+        }
+
+        .closesidebar:hover{
+            background-color: gray;
+        }
+    
+        .brandName {
+            display: flex;
+            align-items: center;
+            
+            label{
+                margin-left: 1.5rem;
+                font-weight: bold;
+            }
+        }
+    }
+
+    .middle-content{
+        cursor: pointer;
+        margin-top: 30px;
+        .itemlist{
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 15px;
+            transition: box-shadow 0.3s ease-in-out, background-color 0.3s ease-in-out;
+        }
+        .icon{
+            margin-top: 4px;
+        }
+        label{
+            margin-left: 15px;
+        }
+        .itemlist:hover{
+            box-shadow: none;
+            background-color: aliceblue;
+        }
+    }
+    .bottom-content{
+        position: absolute;
+        bottom: 2rem;
+        padding: 10px;
+        .linkGroup{
+            gap: 5px;
+            margin-bottom: 15px;
+        }
+        .usr-info{
+            padding: 1rem;
+            background-color: floralwhite;
+            border-radius: 10px;
+            margin-left: 15px;
+            gap: 5px;
+            transition: background-color 0.3s ease-in-out;
+            .usr-icon{
+                background-color: beige;
+                border-radius: 50%;
+                padding: 2px;
+            }
+            .usr-name{
+                font-weight: bold;
+            }
+        }
+        .usr-info:hover{
+            background-color: aliceblue;
+        }
+    }
+}
+
+.sidebar-box.open {
+    left: 0; /* Visible */
+}
+
+.sidebar-box.close {
+    left: -300px; /* Oculto */
+}
+
+.closesidebar:hover {
+    background-color: gray;
+}
+
+.usr-info {
+    display: flex;
+    align-items: center;
+}
+
+.usr-info-logo {
+    margin-right: 10px;
+}
+
+.linkGroup {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logout-button {
+    margin-right: 5px;
+}
+
+.links-bottom {
+    cursor: pointer;
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deiby\\OneDrive\\Documentos\\GitHub\\TODO---APP\\ReactApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B7943-12E6-4499-94E0-11D81CA50463}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\users\\deiby\\onedrive\\documentos\\github\\todo---app\\reactapp1\\reactapp1.server\\models\\todoappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B7943-12E6-4499-94E0-11D81CA50463}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\models\\todoappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B7943-12E6-4499-94E0-11D81CA50463}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\users\\deiby\\onedrive\\documentos\\github\\todo---app\\reactapp1\\reactapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C0B7943-12E6-4499-94E0-11D81CA50463}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoappContext.cs",
+              "DocumentMoniker": "C:\\Users\\deiby\\OneDrive\\Documentos\\GitHub\\TODO---APP\\ReactApp1\\ReactApp1.Server\\Models\\TodoappContext.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Models\\TodoappContext.cs",
+              "ToolTip": "C:\\Users\\deiby\\OneDrive\\Documentos\\GitHub\\TODO---APP\\ReactApp1\\ReactApp1.Server\\Models\\TodoappContext.cs*",
+              "RelativeToolTip": "ReactApp1.Server\\Models\\TodoappContext.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBUAAADAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:33:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deiby\\OneDrive\\Documentos\\GitHub\\TODO---APP\\ReactApp1\\ReactApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\deiby\\OneDrive\\Documentos\\GitHub\\TODO---APP\\ReactApp1\\ReactApp1.Server\\appsettings.json*",
+              "RelativeToolTip": "ReactApp1.Server\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T01:33:09.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
